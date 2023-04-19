@@ -1,7 +1,7 @@
 /*
  * GNU GPL v3 License
  *
- * Copyright 2021 Niccolò Tubini, Giuseppe Formetta, Riccardo Rigon
+ * Copyright 2021 Niccolï¿½ Tubini, Giuseppe Formetta, Riccardo Rigon
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -30,7 +30,7 @@ import org.junit.Test;
 import it.geoframe.blogspot.geoframenewage.dam.Dam;
 
 /**
- * @author Niccolò Tubini, Giuseppe Formetta
+ * @author Niccolï¿½ Tubini, Giuseppe Formetta
  * 
  */
 public class TestDam{
